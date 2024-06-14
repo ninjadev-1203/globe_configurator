@@ -1,1 +1,1 @@
-# globe_configurator
+# GLOBE CONFIGURATOR
